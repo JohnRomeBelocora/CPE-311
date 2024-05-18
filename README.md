@@ -1,7 +1,7 @@
 # CPE-311
 
-• 👋 Hi! I am John Rome A. Belocora
-• 🖥️ I am currently a Computer Engineering Student
+-• 👋 Hi! I am John Rome A. Belocora
+-• 🖥️ I am currently a Computer Engineering Student
 • 🧑 currently 20 years old
 • 📍🏠 lives in Cainta, Rizal
 • 🏫🎒 Studies at Technological Institute of the Philippines Quezon City
