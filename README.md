@@ -1,7 +1,6 @@
 # CPE-311
 
-• 👋 Hi! I am John Rome A. Belocora
-
+• 👋 Hi! I am John Rome A. Belocora  
 • 🖥️ I am currently a Computer Engineering Student
 
 • 🧑 currently 20 years old
